@@ -1,0 +1,18 @@
+[
+  {
+    "chatId": 438391996,
+    "location": { "latitude": 49.829416, "longitude": 23.979874 },
+    "userName": "KibaWasHere",
+    "firstName": "Роман",
+    "languageCode": "uk",
+    "isBot": false
+  },
+  {
+    "chatId": 976946124,
+    "location": { "latitude": 49.829394, "longitude": 23.979859 },
+    "userName": "Ulyana2104",
+    "firstName": "Ulyana",
+    "languageCode": "uk",
+    "isBot": false
+  }
+]
